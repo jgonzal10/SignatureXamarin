@@ -3018,7 +3018,7 @@ namespace nexttime.Droid
 			public const int tooltip_frame_light = 2130837804;
 			
 			// aapt resource value: 0x7f02012d
-			public const int xamarin_logo = 2130837805;
+			public const int wo = 2130837805;
 			
 			static Drawable()
 			{

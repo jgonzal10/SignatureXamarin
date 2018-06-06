@@ -15,9 +15,13 @@
     <Compile Remove="ViewModels\MyView.cs" />
     <Compile Remove="ViewModels\ItemDetailViewModel.cs" />
     <Compile Remove="Views\NewItemPage.xaml.cs" />
+    <Compile Remove="Views\DatePage.xaml.cs" />
+    <Compile Remove="Views\CyclePage.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Remove="Views\MyPage.xaml" />
     <EmbeddedResource Remove="Views\NewItemPage.xaml" />
+    <EmbeddedResource Remove="Views\CyclePage.xaml" />
+    <EmbeddedResource Remove="Views\MyPage.xaml" />
+    <EmbeddedResource Remove="Views\DatePage.xaml" />
   </ItemGroup>
 </Project>
