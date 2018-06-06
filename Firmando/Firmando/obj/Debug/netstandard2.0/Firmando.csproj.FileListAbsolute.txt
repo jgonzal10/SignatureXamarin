@@ -1,0 +1,8 @@
+/Users/jennifer.alzate/Projects/Firmando/Firmando/bin/Debug/netstandard2.0/Firmando.deps.json
+/Users/jennifer.alzate/Projects/Firmando/Firmando/bin/Debug/netstandard2.0/Firmando.dll
+/Users/jennifer.alzate/Projects/Firmando/Firmando/bin/Debug/netstandard2.0/Firmando.pdb
+/Users/jennifer.alzate/Projects/Firmando/Firmando/obj/Debug/netstandard2.0/Firmando.csproj.CoreCompileInputs.cache
+/Users/jennifer.alzate/Projects/Firmando/Firmando/obj/Debug/netstandard2.0/Firmando.AssemblyInfoInputs.cache
+/Users/jennifer.alzate/Projects/Firmando/Firmando/obj/Debug/netstandard2.0/Firmando.AssemblyInfo.cs
+/Users/jennifer.alzate/Projects/Firmando/Firmando/obj/Debug/netstandard2.0/Firmando.dll
+/Users/jennifer.alzate/Projects/Firmando/Firmando/obj/Debug/netstandard2.0/Firmando.pdb

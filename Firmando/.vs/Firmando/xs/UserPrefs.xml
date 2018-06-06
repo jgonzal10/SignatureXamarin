@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E0E351BF-9E59-47C8-BBDB-D6F5D012729E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Firmando/MainPage.xaml">
+    <Files>
+      <File FileName="Firmando/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Firmando/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Firmando FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Firmando.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Firmando.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
